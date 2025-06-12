@@ -1,0 +1,16 @@
+statement,label
+The system shall allow users to log in using email.,0
+The interface must be user-friendly.,1
+System should respond within 2 seconds.,1
+Data must be encrypted at rest.,1
+Users should be able to reset their passwords.,0
+System must comply with GDPR regulations.,1
+The system shall send email notifications on password reset.,0
+The login page shall have a 2-factor authentication option.,0
+System should be available 99.9% of the time.,1
+All transactions shall be logged for audit purposes.,0
+The UI must be accessible to users with visual impairments.,1
+"System should scale to support 10,000 concurrent users.",1
+Users should be able to change their username and password.,0
+The system shall maintain session data for 30 minutes.,0
+The API shall support JSON and XML formats.,0

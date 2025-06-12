@@ -1,0 +1,4 @@
+from transformers import DistilBertForSequenceClassification
+
+def load_model(model_name="distilbert-base-uncased", num_labels=2):
+    return DistilBertForSequenceClassification.from_pretrained(model_name, num_labels=num_labels)

@@ -1,0 +1,39 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Model output
+requirement_classifier/
+
+# PyTorch cache
+*.pt
+*.pth
+
+# Logs and metrics
+logs/
+*.log
+results/
+*.csv
+*.json
+*.png
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/config.toml
